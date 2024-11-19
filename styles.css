@@ -11,6 +11,22 @@ nav {
 
 }
 
+nav ul li {
+    list-style: none;
+}
+
+nav ul li:hover {
+    text-decoration : underline; 
+}
+
+
+nav { 
+    background-color : beige; 
+
+    width: 100%; 
+
+}
+
 .title:hover { 
     text-decoration: underline;
 }
