@@ -14,10 +14,10 @@ nav {
 nav ul li {
     list-style: none;
 }
-
 nav ul li:hover {
     text-decoration : underline; 
 }
+
 
 
 nav { 
