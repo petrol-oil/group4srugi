@@ -20,13 +20,6 @@ nav ul li:hover {
 
 
 
-nav { 
-    background-color : beige; 
-
-    width: 100%; 
-
-}
-
 .title:hover { 
     text-decoration: underline;
 }
