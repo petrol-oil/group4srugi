@@ -1,0 +1,12 @@
+.g_member ul {
+    text-align : inherit; 
+
+    margin : 0 auto; 
+    padding : 0; 
+
+    list-style : none; 
+}
+
+.g_member {
+    text-align : center; 
+}
