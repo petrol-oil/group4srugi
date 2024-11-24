@@ -1,0 +1,11 @@
+aside {
+    background-color: white;
+    width : 10%; 
+} 
+
+.grid-container {
+    display : grid; 
+    grid-template-columns: 70% 10% 20%;
+}
+
+
