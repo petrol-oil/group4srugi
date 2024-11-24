@@ -10,3 +10,25 @@
 .g_member {
     text-align : center; 
 }
+
+.group_banner { 
+    text-decoration: none;
+    font-family : "Indie Flower", cursive; 
+    font-style : normal; 
+    font-weight : 400; 
+    font-size : large; 
+
+    margin-right : 32px; 
+
+
+    padding : 0; 
+    
+}
+
+.special_font {
+    font-family : "Indie Flower", cursive; 
+}
+
+.title {
+    text-align : center; 
+}
