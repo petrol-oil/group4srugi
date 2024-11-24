@@ -1,0 +1,18 @@
+footer { 
+    background-color : var(--nav-foot-bg); 
+
+    border-top : 3px solid gray; 
+
+    margin-top : 1.5em; 
+    margin-bottom : 0px; 
+
+    display : flex; 
+}
+
+footer ul { 
+    margin-top : 0px; 
+    list-style: none;
+    font-size : 12px; 
+
+    line-height : 1.2em; 
+}
