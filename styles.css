@@ -46,6 +46,8 @@ nav {
 
     text-align : left; 
 
+    transition : transform 0.3s ease; 
+
 }
 
 nav ul li {
