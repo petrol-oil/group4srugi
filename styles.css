@@ -4,6 +4,7 @@
     --purple : #7e37a7;
 
     --nav-foot-bg : #DAB692;
+    --darker-nav-foot-bg : #96795C; 
 }
 
 body {
@@ -118,4 +119,23 @@ nav ul li:hover {
 .big {
     font-size : 2em; 
     font-family : 'Times New Roman', Times, serif;
+}
+
+.html_link:link {
+    color : black; 
+}
+
+.html_link:visited {
+    color : black; 
+    text-decoration : none; 
+}
+
+.html_link:hover {
+    color : black; 
+    background-color: var(--darker-nav-foot-bg);
+    border-radius: 12px;;
+}
+
+.html_link:active {
+    color : black; 
 }
