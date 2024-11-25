@@ -1,6 +1,7 @@
 let lastScrollY = window.scrollY;
 const navbar = document.querySelector('.navbar');
 
+
 window.addEventListener('scroll', () => {
   const currentScrollY = window.scrollY;
 

@@ -1,12 +1,39 @@
 aside {
-    background-color: white;
-    width : 10%; 
+    background-color: var(--nav-foot-bg);
+    width : 15%; 
+
+
 
     margin-left : 80%; 
     margin-top : 32px; 
     margin-bottom : 0px; 
 
+
     position: fixed; 
+
+    border-radius: 12px; ;
+
+
 } 
 
 
+aside ul {
+    list-style: none;
+    text-align : left; 
+    font-size : 1.3em; 
+
+    font-family :'Times New Roman', Times, serif;
+
+    padding-left : 5%; 
+    padding-right : 0px; 
+    
+    line-height : 1.5em; 
+
+
+}
+
+
+
+aside ul:hover {
+    color : aqua; 
+}
