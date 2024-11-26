@@ -53,6 +53,9 @@ to implement picture frame for member gathering
     font-family : "Indie Flower", cursive; 
 }
 
+
 .down {
-    margin-top : 30%;
+    position : absolute; 
+    width : 100%; 
+    bottom : 0; 
 }
