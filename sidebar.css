@@ -13,7 +13,7 @@ aside {
 
     border-radius: 12px; ;
 
-    overflow : scroll; 
+    overflow-wrap : break-word; 
 
 } 
 
